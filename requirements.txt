@@ -1,0 +1,15 @@
+kaleido==0.2.1
+numpy==1.26.2
+packaging==23.2
+pandas==2.1.4
+patsy==0.5.4
+plotly==5.18.0
+plotly-express==0.4.1
+python-dateutil==2.8.2
+pytz==2023.3.post1
+scipy==1.11.4
+six==1.16.0
+stats==0.1.2a0
+statsmodels==0.14.1
+tenacity==8.2.3
+tzdata==2023.3
