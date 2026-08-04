@@ -1,5 +1,31 @@
 # Stability shifts in gliding flight: Hawks morph from an unstable to stable state when navigating a gap
-This repository includes files for the processing of raw wind tunnel data with more detailed file descriptions at the top of each script
+**Journal of the Royal Society Interface**, 2026 — [Paper](https://doi.org/xxxx)
+
+Kiran Weston<sup>1</sup>, Huanglun Adam Zhu<sup>2</sup>, Graham Keith Taylor<sup>1</sup>, Christina Harvey<sup>2*</sup>
+
+<sup>1</sup>*University of Oxford*, <sup>2</sup>*University of California, Davis*  
+<sup>*</sup>Corresponding author
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/1df003e9-3b66-48fe-a2a4-a736336b5c32" />
+A Harris’s hawk over-tucks for larger gap challenges.
+
+---
+
+## Abstract
+Birds control their flight by morphing their wing and tail configurations as they shift between steady glides and agile manoeuvres. Cadaveric studies have shown that birds have the capacity to adopt both stable and unstable configurations, but it remains unknown how birds exploit this ability in flight. Here, we fill this gap by studying the progression of wing and tail configurations of a free-gliding Harris’s hawk (*Parabuteo unicinctus*) during a wing-tucking manoeuvre. Wind tunnel experiments on three-dimensional-printed models revealed that tucked configurations were statically stable, while spread configurations displayed a nonlinear relationship between pitching moment and lift. This nonlinearity allows configurations to be either stable or unstable depending on the lift state, affording a previously under-explored source of flight performance flexibility. Furthermore, we found that the hawk transitioned from an unstable, spread configuration to a stable, tucked configuration as it traversed the gap, shifting the effective static margin from −25% to 19% of the reference chord. This notable stability shift suggests that adaptive flight control allows transition between flight modes and offers insight into flight conditions where shifting stability states may be relevant. This outcome will advance novel bio-inspired, fixed-wing uncrewed aerial vehicle designs capable of rapid transitions.
+
+## Citation
+```bibtex
+@article{weston-2026,
+  title   = {Stability shifts in gliding flight: Hawks morph from an unstable to stable state when navigating a gap},
+  author  = {Kiran Weston, Huanglun Adam Zhu, Graham Keith Taylor, Christina Harvey},
+  journal = {Journal of the Royal Society Interface},
+  year    = {2026},
+  doi     = {10.1098/rsif.2025.0868}
+}
+```
+
+## Code Summary
 
 ERRORCALCULATION SCRIPTS - written specifically for this project but can be made general 
 
@@ -22,9 +48,6 @@ GRAPHING SCRIPTS
 4) WingspanGapApproach *detailed in thesis work*
       This plots wingspan against distance to gap but requires data not generated here
 
-
-
-
 TESTING SCRIPTS
 
 1) RawDataErrorCalc
@@ -42,3 +65,10 @@ TESTING SCRIPTS
 6) SensitivityAnalysis
    This code calculates CMcg and subsequently CMcgalpha/CLalpha at every angle of attack to           compare the static margin change.
    This reuses code sections of ForceTorquePlot and CMCL_compare
+
+This repository includes files for the processing of raw wind tunnel data with more detailed file descriptions at the top of each script
+
+## License
+\<MIT / BSD-3 / etc.\> — see [LICENSE](LICENSE).
+
+
