@@ -7,7 +7,7 @@ Kiran Weston<sup>1</sup>, Huanglun Adam Zhu<sup>2</sup>, Graham Keith Taylor<sup
 <sup>*</sup>Corresponding author
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/1df003e9-3b66-48fe-a2a4-a736336b5c32" />
-A Harris’s hawk over-tucks for larger gap challenges.
+A Harris’s hawk (a) was fitted with retroreflective markers at relevant physiological locations to provide a wing and tail outline. The subject was recorded flying between two perches placed 14 m apart down the length of the Oxford Flight lab flight hall.
 
 ---
 
@@ -23,6 +23,17 @@ Birds control their flight by morphing their wing and tail configurations as the
   year    = {2026},
   doi     = {10.1098/rsif.2025.0868}
 }
+```
+
+## Environment reproduction
+Clone the repository:
+```
+git clone git@github.com:UC-BIRD-Lab/StabilityShiftsInGlidingFlight.git
+cd StabilityShiftsInGlidingFlight
+```
+Create a python virtual environment using `pip` from the supplied `requirements.txt` file:
+```
+pip install -r requirements.txt
 ```
 
 ## Code Summary
