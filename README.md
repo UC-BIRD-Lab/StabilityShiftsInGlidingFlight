@@ -18,7 +18,7 @@ Birds control their flight by morphing their wing and tail configurations as the
 ```bibtex
 @article{weston-2026,
   title   = {Stability shifts in gliding flight: Hawks morph from an unstable to stable state when navigating a gap},
-  author  = {Kiran Weston, Huanglun Adam Zhu, Graham Keith Taylor, Christina Harvey},
+  author  = {Weston, K. and Zhu, H. and Taylor, G.K. and Harvey, C.},
   journal = {Journal of the Royal Society Interface},
   year    = {2026},
   doi     = {10.1098/rsif.2025.0868}
