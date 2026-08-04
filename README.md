@@ -78,8 +78,3 @@ TESTING SCRIPTS
    This reuses code sections of ForceTorquePlot and CMCL_compare
 
 This repository includes files for the processing of raw wind tunnel data with more detailed file descriptions at the top of each script
-
-## License
-\<MIT / BSD-3 / etc.\> — see [LICENSE](LICENSE).
-
-
