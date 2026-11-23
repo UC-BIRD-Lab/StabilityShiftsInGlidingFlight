@@ -3,7 +3,9 @@
 
 Kiran Weston<sup>1</sup>, Huanglun Adam Zhu<sup>2</sup>, Graham Keith Taylor<sup>1</sup>, Christina Harvey<sup>2*</sup>
 
-<sup>1</sup>*University of Oxford*, <sup>2</sup>*University of California, Davis*  
+<sup>1</sup>*University of Oxford, Department of Biology*  
+<sup>2</sup>*University of California, Davis, Department of Mechanical and Aerospace Engineering*  
+
 <sup>*</sup>Corresponding author
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/1df003e9-3b66-48fe-a2a4-a736336b5c32" />
